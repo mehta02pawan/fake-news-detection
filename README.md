@@ -1,5 +1,5 @@
 # FAKE NEWS DETECTION
-
+> You can run all the files in google colab. You can also find the  output results within those files. However, at the end of this file there is a comparision image of all the classifier results and the better results for some classifiers after hyper tuning the parameters.
 ### Introduction
 
 ###### <p align="justify">The internet has transformed the lives of countless people for the better or for the worse over the years.As the internet’s capabilities grew, so did the numberof legal and unlawful activities that it enabled. This communication channel might be used for illicit actions including sending threatening or abusive messages. By keeping an eye on their everyday posts and monitoring questionable topics, you can determine how loyal members are. We compared the accuracy of different machine learning algorithms which can analyze online plain text sources from the dataset and classify them into positive or negative news. First, we will use TF-IDF vectorizer which will convert a collection of raw documents to a matrix of TF-IDF features. This is a very common algorithm to transform text into a meaningful representation of numbers which is used to fit machine algorithms for prediction. We used K-Nearest Neighbour, Decision Tree, Random Forest, Naive-Bayes Logistic Regression, Passive Aggressive algorithm for our dataset.</p>
